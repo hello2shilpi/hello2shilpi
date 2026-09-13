@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @hello2shilpi
+- 👋 Hi, I’m Shilpi Verma
+- 
 - 👀 I’m interested in learning asp.net core
 - 🌱 I’m currently working as .net Developer
 - 💞️ I’m looking to collaborate on new and advance coding langauages
